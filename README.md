@@ -1,5 +1,4 @@
-
-## Forest-Cop-Ter: A multipurpose drone
+# Forest-Cop-Ter: A multipurpose drone
 
 This project was carried out over 2 semesters thus was divided into two parts.
 
